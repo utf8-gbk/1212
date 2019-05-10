@@ -1,0 +1,44 @@
+*{
+    padding: 0px;
+    margin:0px;
+}
+.all{
+    width:600px;
+    height:1000px;
+    border:solid 1px red;
+}
+.tab
+{
+    width:100%;
+    height:30px;
+    border:solid 1px red;
+}
+.tab1
+{
+    width:33.3%;
+    height:30px;
+    float:left;
+    background-color:green;
+}
+
+.div1
+{
+    width:100%;
+    height:970px;
+    border:solid 1px red;
+    background-color:gray;
+}
+.div2
+{
+    width:100%;
+    height:970px;
+    border:solid 1px red;
+    background-color:darkcyan;
+}
+.div3
+{
+    width:100%;
+    height:970px;
+    border:solid 1px red;
+    background-color:yellow;
+}
